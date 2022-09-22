@@ -1,0 +1,9 @@
+{
+  "name": "hu8",
+  "version": "1.0.4",
+  "description": "工具函数",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "hu8",
+  "license": "ISC"
+}

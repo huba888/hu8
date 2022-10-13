@@ -1,8 +1,9 @@
 {
   "name": "hu8",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "工具函数",
   "main": "src/index.js",
+  "keywords": ["utils","debounce"],
   "scripts": {},
   "author": "hu8",
   "license": "ISC"
